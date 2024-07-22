@@ -1,0 +1,8 @@
+#Ignore pycache folder and its files
+__pycache__/
+
+#Ignore venv configurations
+env_Flask_tim/
+
+#Ignore env.txt file
+env.txt
